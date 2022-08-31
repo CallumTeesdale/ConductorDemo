@@ -1,0 +1,15 @@
+﻿{
+  "name": "NetflixConductorDemoWorkflow",
+  "description": "A demo workflow definition",
+  "version": 1,
+  "schemaVersion": 2,
+  "workflowStatusListenerEnabled": true,
+  "ownerEmail": "callum.teesdale@ivendi.com",
+  "tasks": [
+    {
+      "name": "NetflixConductorDemoTask",
+      "taskReferenceName": "netflixConductorDemoTask",
+      "type": "SIMPLE"
+    }
+  ]
+}

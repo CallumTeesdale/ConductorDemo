@@ -1,0 +1,10 @@
+﻿[
+  {
+    "name": "NetflixConductorDemoTask",
+    "description": "A demo task definition",
+    "timeoutSeconds": 0,
+    "timeoutPolicy": "TIME_OUT_WF",
+    "responseTimeoutSeconds": 3600,
+    "ownerEmail": "callum.teesdale@ivendi.com"
+  }
+]
